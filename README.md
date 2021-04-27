@@ -22,7 +22,7 @@ Building the production bundle ([dist](dist)):
 $ npm run build
 ```
 
-# Further Notes
+## Further Notes
 
 * Bundle files (JS) are not intentionally checked in the code base.
 * Use [.devcontainer](.devcontainer) to exploit a Docker environment with VSCode remote, otherwise simply ignore it.
