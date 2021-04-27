@@ -4,7 +4,7 @@ Just a `rollup.js` experiment, based on a customization of the [rollup-starter-a
 
 ## Usage
 
-Installing dependencies from `package-lock.json`:
+Installing dependencies from [`package-lock.json`](package-lock.json):
 
 ```bash
 $ npm install
@@ -16,7 +16,7 @@ Development environment (_TODO: browser livereload_):
 $ npm start
 ```
 
-Building the production bundle:
+Building the production bundle ([dist](dist)):
 
 ```bash
 $ npm run build
