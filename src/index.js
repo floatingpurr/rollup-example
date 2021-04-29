@@ -2,9 +2,6 @@ import { select, scaleLinear } from 'd3';
 import { vizData } from './vizData'; // ES6 named import
 import { makeData } from './makeData'; // ES6 named import
 
-console.log('pooofff');
-
-
 const width = window.innerWidth; // get and set the page width
 const height = window.innerHeight; // get and set the page height
 
